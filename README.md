@@ -6,3 +6,11 @@ Added:
 <li>Loop in other class</li>
 <li>Multi array in other class</li>
 <li>Radom String generator</li></ul>
+
+#Lesson 2
+Added:
+<ul><li>Object in Class</li>
+<li>Methods with arguments</li>
+<li>Class constructor</li>
+<li>Class statis keyword</li>
+</ul>

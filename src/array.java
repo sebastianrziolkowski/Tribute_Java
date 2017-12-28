@@ -57,7 +57,6 @@ public class array {
     public String[][] Set_String_Multi_Array(int x, int y)
     {
         String[][] napisy = new String[x][y];
-        RandomString random_string = new RandomString();
         for(int i=0;i<napisy.length;i++)
         {
             for(int j=0;j<napisy[i].length;j++)
