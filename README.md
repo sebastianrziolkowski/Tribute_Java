@@ -14,3 +14,12 @@ Added:
 <li>Class constructor</li>
 <li>Class statis keyword</li>
 </ul>
+
+#Lesson 3
+Added:
+<ul>
+<li>StringBuilder method</li>
+<li>Text formating</li>
+<li>ToString Class Method</li>
+<li>Uses StringBuilder in ToString Method</li>
+</ul>

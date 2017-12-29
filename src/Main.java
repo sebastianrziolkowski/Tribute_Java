@@ -51,6 +51,7 @@ public class Main {
         frog.setAge(2);
         */
 
+        /*
         Thing.description = "I am t static thing";
 
         Thing thing1 = new Thing();
@@ -60,6 +61,20 @@ public class Main {
         thing1.showInfo();
         thing2.showInfo();
         thing3.showInfo();
+        */
+
+        /*
+        StringBuilder sb = new StringBuilder("");
+
+        sb.append("My name is Bob.").append(" ").append("I am a lion tamer.");
+        System.out.print(sb.toString());
+
+        System.out.printf("\nTotal cost %d: quantity is %d.\n", 5, 120);
+        */
+
+        Ftring ftring = new Ftring(7,"Bob");
+
+        System.out.println(ftring.toString());
     }
 
 
