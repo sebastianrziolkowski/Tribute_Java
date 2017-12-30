@@ -72,9 +72,23 @@ public class Main {
         System.out.printf("\nTotal cost %d: quantity is %d.\n", 5, 120);
         */
 
+        /*
         Ftring ftring = new Ftring(7,"Bob");
-
         System.out.println(ftring.toString());
+        */
+
+
+        Machine machine = new Machine();
+        machine.start();
+        machine.stop();
+
+        Car car = new Car();
+
+        car.start();
+
+        car.wipeWindShield();
+
+        car.stop();
     }
 
 

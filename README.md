@@ -23,3 +23,7 @@ Added:
 <li>ToString Class Method</li>
 <li>Uses StringBuilder in ToString Method</li>
 </ul>
+
+#Lesson 4
+Added:
+<ul><li>Inheritance</li></ul>
