@@ -1,5 +1,6 @@
 import ocean.*;
 
+import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.Date;
 import java.util.Scanner;
@@ -103,7 +104,40 @@ public class Main {
         Machine machine = new Machine();
         System.out.println("Machine name is: " + machine.name + " ID:" + machine.ID);
         */
-    }
 
+        /*
+        Plant plant = new Plant();
+        Tree tree = new Tree();
+        Plant plant2 = tree;
+
+        plant2.grow();
+        tree.shedLeaves();
+        */
+
+
+        /* Lesson 5  -- Using generic before java 5
+        ArrayList list = new ArrayList();
+
+        list.add("apple");
+        list.add("appllle");
+        list.add("appllle");
+        list.add("appllle");
+
+        String fruit = (String)list.get(1);
+
+        System.out.println(fruit);
+        */
+
+
+        ArrayList<String> list = new ArrayList<String>();
+        list.add("Cat");
+        list.add("Dog");
+        list.add("aligator");
+
+        System.out.print(list.get(1));
+
+
+
+    }
 
 }
