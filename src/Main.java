@@ -1,3 +1,5 @@
+import ocean.*;
+
 import java.util.Calendar;
 import java.util.Date;
 import java.util.Scanner;
@@ -78,6 +80,7 @@ public class Main {
         */
 
 
+        /*
         Machine machine = new Machine();
         machine.start();
         machine.stop();
@@ -89,6 +92,17 @@ public class Main {
         car.wipeWindShield();
 
         car.stop();
+        */
+
+        /*
+        Fish fish = new Fish();
+        Seaweed seaweed = new Seaweed();
+        */
+
+        /*
+        Machine machine = new Machine();
+        System.out.println("Machine name is: " + machine.name + " ID:" + machine.ID);
+        */
     }
 
 
